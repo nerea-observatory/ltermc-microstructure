@@ -14,9 +14,8 @@ Microstructure observations of the summer-to-winter destratification at a coasta
 submitted to Journal Of Geophysical Research : Oceans.
 
 
-Format:
+# Global Attributes:
            netcdf4_classic
-Global Attributes:
            Project            = 'Long-Term Marechiara (LTER-MC)'
            Research Institute = 'Stazione Zoologica Anton Dohrn (SZN), Napoli, Italy'
            Location           = 'Gulf of Naples'
@@ -33,27 +32,27 @@ Global Attributes:
       
       
       
-QUICK OVERVIEW :
+# Data overview:
 
-# CTD DATA 
-# Seabird911+ Conductivity-Temperature-Depth data profiles (1m vertical regular grid)
+#CTD DATA 
+#Seabird911+ Conductivity-Temperature-Depth data profiles (1m vertical regular grid)
 ltermc_gon_mc1160_mc1190_CTD.nc
 (longitude, latitude, temperature, salinity, depth, pressure, casts, and time)
 
-# VMP GENERAL 
-# VMP250 RSI high-resolution microstructure profiles (512 Hz)
+#VMP GENERAL 
+#VMP250 RSI high-resolution microstructure profiles (512 Hz)
 ltermc_gon_mc1160_mc1190_VMP_meta.nc
 (longitude, latitude, casts, time, and estimates of epsilon (dissipation rates of turbulent kinetic energy, W/kg)
 
-# VMP_data
-# VMP250 RSI high-resolution microstructure profiles (512 Hz)
+#VMP_data
+#VMP250 RSI high-resolution microstructure profiles (512 Hz)
 ...
 ltermc_gon_mc1160_mc1190_VMP_xxx.nc
 ...
 (512 Hz data : microstructure shears, accelerometers, micro-conductivity and fast thermistor, pressure, turbidity, time, sampling rates, 
 
-# JAC CT
-# VMP250 RSI - JFE Advantech micro-Conductivity-Temperature profiles (64 Hz) + VMP-250 RSI profiler cinematics
+#JAC CT
+#VMP250 RSI - JFE Advantech micro-Conductivity-Temperature profiles (64 Hz) + VMP-250 RSI profiler cinematics
 ltermc_gon_mc1160_mc1190_JAC_CT.nc
 (64 Hz data : JAC-conductivity, temperature, pressure, time, sampling rates, falling velocity, inclinometers)
 
