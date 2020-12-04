@@ -2,16 +2,27 @@
 
 # Licence : 
 These data are under Creative Commons : Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
 Data are available under netcdf files 
 https://en.wikipedia.org/wiki/NetCDF
 https://unidata.github.io/netcdf4-python/netCDF4/index.html
 
 
-# For any use of these data, please cite the related research study paper:
+# For any use of these data, please cite the related research study paper and the dataset DOI 
+
+article
 Kokoszka, F. and Conversano, F. and Iudicone, F. and Ferron, B. and Bouruet-Aubertot, P. and Mc Millan, J. (2020)
 Microstructure observations of the summer-to-winter destratification at a coastal site in the Gulf of Naples
 submitted to Journal Of Geophysical Research : Oceans.
+
+dataset
+https://zenodo.org/record/4306862#.X8q9PLIReHo
+Publication date:
+December 4, 2020
+DOI:
+10.5281/zenodo.4306862
+Related identifiers:
+Supplement to
+https://github.com/nerea-observatory/ltermc-microstructure/tree/v1.0.0
 
 
 # Global Attributes:
